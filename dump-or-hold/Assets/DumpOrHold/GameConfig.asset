@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -596766513, guid: 36baed3498f904c6091ca875d1a2b63b, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  GameLength: 4
+  GameName: CryptoPanic
+  TitleObject: {fileID: 1690098951961720, guid: 31ba070653f4444d2810fe114d84bb6b,
+    type: 2}
+  GamePrefab: {fileID: 1803544290501362, guid: e32f3c67f3db44fc49e8312878530a50, type: 2}
+  ScorePrefab: {fileID: 1030762977163226, guid: a0ea3c2ded0314ec798ef36750782ae8,
+    type: 2}
+  MainColor: {r: 1, g: 1, b: 1, a: 1}
+  SecondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  TertiaryColor: {r: 1, g: 1, b: 1, a: 1}
